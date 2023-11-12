@@ -62,6 +62,6 @@ int main()
         mid = n3;
 
     printf("Girdiğiniz en küçük sayı %d, ",who_is_min(n1,n2,n3));
-    printf("girdiğiniz ortanca sayı %d, ",mid);
-    printf("girdiğiniz en büyük sayı ise %d'dir.\n",who_is_max(n1,n2,n3));
+    printf("Girdiğiniz ortanca sayı %d, ",mid);
+    printf("Girdiğiniz en büyük sayı ise %d'dir.\n",who_is_max(n1,n2,n3));
 }
